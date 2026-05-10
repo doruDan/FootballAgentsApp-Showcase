@@ -25,7 +25,7 @@ Organizarea entităților sportive după criterii geografice și competiționale
 * Liga profesionistă și Stadionul de reședință.
 
 <img width="2880" height="1688" alt="Captură de ecran 2026-05-10 182537" src="https://github.com/user-attachments/assets/5cb275b4-ec49-442c-929f-ebc0bc3e396f" />
-"Implementarea logică a serviciului de gestionare a jucătorilor, utilizând Entity Framework Core pentru interacțiunea cu baza de date și asigurând integritatea datelor prin gestionarea excepțiilor de concurență."
+Implementarea logică a serviciului de gestionare a jucătorilor, utilizând Entity Framework Core pentru interacțiunea cu baza de date și asigurând integritatea datelor prin gestionarea excepțiilor de concurență.
 
 ## 📊 Dezvoltarea planificată
 1. **Integrarea unui API (Young Talents):** Implementarea unui modul de scouting automatizat care preia liste de „tinere talente” dintr-un API extern.
