@@ -1,7 +1,6 @@
 # FootballAgentsApp-Showcase
 
 <img width="2880" height="1704" alt="Captură de ecran 2026-05-10 182452" src="https://github.com/user-attachments/assets/b62b7cc3-8b4b-4aaf-ae4e-f1679917a463" />
-<img width="2880" height="1688" alt="Captură de ecran 2026-05-10 182537" src="https://github.com/user-attachments/assets/22bb3efc-0d4a-48a4-940c-235dffbbdf3a" />
 
 ### 🚀 Status: În Dezvoltare (Proiect sub mentorat)
 Această aplicație este un sistem de management dedicat impresarilor și agențiilor de scouting, dezvoltat sub îndrumarea unui **Development Manager**. Proiectul pune accent pe gestionarea eficientă a datelor complexe și pe integritatea relațiilor dintre baze de date.
