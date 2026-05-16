@@ -22,7 +22,7 @@ Permite stocarea și editarea unor profile detaliate:
 ### 🏟️ Managementul Cluburilor
 Organizarea entităților sportive după criterii geografice și competiționale:
 * Țara de origine a clubului.
-* Liga profesionistă și Stadionul de reședință.
+* Liga profesionistă și stadionul de reședință.
 
 <img width="2880" height="1688" alt="Captură de ecran 2026-05-10 182537" src="https://github.com/user-attachments/assets/5cb275b4-ec49-442c-929f-ebc0bc3e396f" />
 Implementarea logică a serviciului de gestionare a jucătorilor, utilizând Entity Framework Core pentru interacțiunea cu baza de date și asigurând integritatea datelor prin gestionarea excepțiilor de concurență.
@@ -36,7 +36,7 @@ Implementarea logică a serviciului de gestionare a jucătorilor, utilizând Ent
 * **Limbaj:** C#
 * **Framework:** ASP.NET Core MVC
 * **Date:** SQL Server (Entity Framework / ADO.NET)
-* **Logică:** Relații de tip One-to-Many între Cluburi și Jucători.
+* **Logică:** Relații de tip One-to-Many între cluburi și jucători.
 
 ---
 
