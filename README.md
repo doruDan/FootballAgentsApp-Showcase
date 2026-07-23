@@ -39,8 +39,3 @@ Implementarea logică a serviciului de gestionare a jucătorilor, utilizând Ent
 * **Logică:** Relații de tip One-to-Many între cluburi și jucători.
 
 ---
-
-### Despre Dezvoltator
-Proiect dezvoltat de un elev la profilul **Umanist**, pasionat de fotbal și tehnologie. Acest proiect demonstrează capacitatea de a lucra cu baze de date și de a înțelege fluxurile de business dintr-o industrie reală.
-
-> *Notă: Acest repository este destinat prezentării arhitecturii și documentației. Codul sursă complet și detaliile de conectare la baza de date sunt stocate într-un repository privat pentru securitate.*
