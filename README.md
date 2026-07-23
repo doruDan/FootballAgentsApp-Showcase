@@ -33,8 +33,4 @@ Organizes sports entities by geographic and competitive criteria:
 * **Data:** SQL Server (Entity Framework / ADO.NET)
 * **Logic:** One-to-Many relationships between clubs and players.
 
-
-### Status: În Dezvoltare (Proiect sub mentorat)
-Această aplicație este un sistem de management dedicat impresarilor și agențiilor de scouting, dezvoltat sub îndrumarea unui **Development Manager**. Proiectul pune accent pe gestionarea eficientă a datelor complexe și pe integritatea relațiilor dintre baze de date.
-
 ---
